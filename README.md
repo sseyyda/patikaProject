@@ -1,1 +1,1 @@
-# patikaProject
+# Patika | Temel Python Eğitimi Projesi
